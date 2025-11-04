@@ -1,5 +1,5 @@
 # Python: Part 1
-A continuación se muestra un orden recomendado de los temas que uno debe saber si quiere aprender Python. El orden está basado en la página [Developer Roadmap](https://roadmap.sh/python):
+A continuación se muestra un orden recomendado de los temas que uno debe aprender si quiere saber de Python. El orden está basado en la página [Developer Roadmap](https://roadmap.sh/python):
 
 1. [Basic Syntax](https://mgdacc.github.io/python-basic-syntax/)
 2. [Strings](https://mgdacc.github.io/python-strings/)
